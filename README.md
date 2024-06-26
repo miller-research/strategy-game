@@ -4,12 +4,12 @@ This repository contains materials for instructors who are administering the _Ce
 
 ## Software Materials
 
-The software necassary to administer the game is freely available:
+The software necessary to administer the game is freely available:
 
-* Digital Dice
-* Digital Timer
-* Google Slides (Alternative: whiteboard software such as Figjam)
+* [Digital Six-sided Dice](https://g.co/kgs/nDT1GUF)
+* [Digital Countdown Timer](https://www.online-stopwatch.com/countdown-timer/)
+* [Google Slides](https://workspace.google.com/products/slides/) (Alternative: whiteboard software such as [Figjam](https://www.figma.com/figjam/))
 
 ## Gameboard Template
 
-The gameboard used as a template can be copied here.
+The gameboard template can be found and downloaded from [here](xxxx).
