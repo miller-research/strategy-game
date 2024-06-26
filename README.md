@@ -4,10 +4,12 @@ This repository contains materials for instructors who are administering the _Ce
 
 ## Software Materials
 
+The software necassary to administer the game is freely available:
+
 * Digital Dice
 * Digital Timer
 * Google Slides (Alternative: whiteboard software such as Figjam)
 
 ## Gameboard Template
 
-* ...
+The gameboard used as a template can be copied here.
