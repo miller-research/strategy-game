@@ -14,4 +14,6 @@ The software necessary to administer the game is freely available:
 
 The gameboard template can be downloaded from [here](https://docs.google.com/presentation/d/1HqWNwpEN6a5_hw0J88q4hY6IHE9niW69DIcNWqACPzE/edit?usp=sharing).
 
+-----
+
 If you have an questions, contact Andrew Miller (Assistant Professor of Political Science, United States Naval Academy): millera@usna.edu.
