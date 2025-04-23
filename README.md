@@ -1,6 +1,6 @@
 # Center City Strategy Game
 
-This repository contains materials for instructors administering the _Center City Strategy Game_. Instructions for the game can be found in the book _Short Games and Active Learning in Political Science: Beating the Clock_ (Routledge, Forthcoming 2025).
+This repository contains materials for instructors administering the _Center City Strategy Game_. Instructions for the game can be found in the book _Beating the Clock: The Power of Short Games and Active Learning in the Political Science Classroom_ (Routledge, Forthcoming 2025).
 
 ## Gameboard Template
 
